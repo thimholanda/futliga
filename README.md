@@ -1,1 +1,1 @@
-# futliga
+# APK generated with React Native
